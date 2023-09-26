@@ -1,7 +1,7 @@
 # [+] Update By BrayennnXD And All
 # [+] Script Free Jangan Di Perjual Belikan Ya
 # [+] Donasi Untuk BrayennnXD 
-# [+] Dana : 089622155832
+# [+] Dana : 083130849586
 # [+] Thanks Buat Yang Dah Bantu Donasi 😁
 
 #------------------[ IMPORT MODULE ]-------------------#
